@@ -1,0 +1,7 @@
+AWS Devops 
+Azure Devops 
+GITHUB 
+GIT 
+Maven 
+Jenkins 
+Sonarqube 
